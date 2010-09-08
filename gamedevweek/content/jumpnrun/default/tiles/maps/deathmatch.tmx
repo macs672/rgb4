@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="90" height="70" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="elemente_level_compact" tilewidth="32" tileheight="32">
+  <image source="../../../../../../../../../rgb4/gamedevweek/content/jumpnrun/default/tiles/elemente_level_compact.png"/>
+ </tileset>
+ <layer name="Kachelebene 1" width="90" height="70">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2ZS0vDQBRGR8EquPRBFVwUFLRFXYlaH1v//z9yggkdy6Qmmpza9Bz4uEkfM+FwO5mSoxDCcSYn1s7qacxVkL65Dnom0DODnhn0zKBnBj0z6JlBzwx6ZtAzg54Z9MygZwY9M+iZQc8MembQM4OeGfTMoGcGPTPomUHPDHpm0DODnhn0zKBnBj0z6JlBzwx6ZtAzg54Z9MygZ4Y+PD90PN4Q6MPzR8wk5rLjcTcZ1w0GPTPomUHPDKTnvZhRzH5SD6C51439zKBnBj0z6JlBzwx6ZiA9H4avvVzbDGHvR3q+iHn9Rd5XjDnp8Xq7hPa8rRCeb2PuYu57nuc/432QQc8Mf/G8E7ObyajMEPYJXdFHP7/EvIXV+4Rtw3WDQc8MemYoPD+Gxb1riP95KYrnRemzotTnPGYcc1ZmvFTP13C9m8pN+O6vOp4l58t+9dyeOs9152mt1pTc72Eb15TqWXIu6dqQ6+dZWO3aXl+w3LNNanU8KzMtU70/TV7PVT03q2k/p/6afr9YU55jnlrUpmn7+a5TN/88/Nx/uVrkE68ABB9wYgAA
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="70" height="51" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="ConcretePlates0002_2_thumblarge" tilewidth="32" tileheight="32">
+  <image source="../../../../../../../../Textures/ConcretePlates0002_2_thumblarge.png"/>
+ </tileset>
+ <tileset firstgid="13" name="metalBlueS" tilewidth="32" tileheight="32">
+  <image source="../../../../../../../../Textures/metalBlueS.png"/>
+ </tileset>
+ <tileset firstgid="25" name="metalGreenS" tilewidth="32" tileheight="32">
+  <image source="../../../../../../../../Textures/metalGreenS.png"/>
+ </tileset>
+ <tileset firstgid="37" name="metalRedS" tilewidth="32" tileheight="32">
+  <image source="../../../../../../../../Textures/metalRedS.png"/>
+ </tileset>
+ <layer name="Kachelebene 1" width="70" height="51" opacity="0.99">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2bCVPCMBCFq3jfB6h4Cx7o//+Bvoh1OtiUTbK7Odpv5s2wKZDQ5LVN2IyqqtqCNqBNaDTEP/EutAdtQztD/BcfQkfQPnQgHIci3b5mrDUuuSjJR9yU4CMpcvaRNDn6SIucfKRNDj6KRco+ik2KPkqFlHyUGin4KFVi+ih1YvgoFzR9lBsaPsoVSR/ljoSPSoHTR6XB4aNSCfFR6fj4qC+4+KhvUH3UNwYfteN6P+oDvs9179AX9Pb7+gNaQJ8r5bbjUvi2Z9EoH57r/rM6PnznR9xModuA4yFQ5gFa69ov0AyaQ68Kn7NBnU/HXGd47Dg2Za7L4DKfjrXOPSe855mpLoPrupTE/6z1teEOuocequXYaJZT4fguSr+H+iindW8DtZ85fNSMJa4DHJgx5dLPXD6q46dqeR2g3Dds76WWtzHr+LxLP3P6qG0+1WyjNLa6fPqZ20epzad8+5XbRyn9L7vu/ulyniTygi6hMTSBrqBr6KalfNLxG6nfUZeva5/r+E89L5WCRB6ZZJ6qBlL5mDHyu4+hE+gUOoPOoYuOchuS+ZjS+dP1b+WiPlfSec0a+d5jxvNirrMa+wO09iG43l9s5Vr7A7Tq4Xju09xno1WPS2xea+z7ocxrYrcj9DmMO/4GnXKLHMg3AAA=
+  </data>
+ </layer>
+</map>

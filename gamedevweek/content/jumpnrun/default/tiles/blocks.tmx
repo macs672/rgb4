@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="40" height="33" tilewidth="64" tileheight="48">
- <tileset firstgid="1" name="blocks" tilewidth="64" tileheight="48">
-  <image source="blocks.png"/>
+<map version="1.0" orientation="orthogonal" width="90" height="70" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="elemente_level_compact" tilewidth="32" tileheight="32">
+  <image source="./elemente_level_compact.png"/>
  </tileset>
- <layer name="Level" width="40" height="33">
+ <layer name="Kachelebene 1" width="90" height="70">
   <data encoding="base64" compression="gzip">
-   H4sIAAAAAAAAC+WXgQqDMAxEq6hM+///OwIeCyVq015Zxg4CWu35mrZrdqSUji/G/hDyDkvwZPox+TLZb0T+IvuJVyb6RR/vv+0P8euZ3+kM7cfk69VyBuThm4wYLQ/fbESPasYKvt5vtWgpwhL41jSWsXVdgE/4RzLW5MoSfq9m1Xel07ULfGv65G/0XHtU1lm4zhft1v1u+Fn+d55Wzed5ZrXp70FlfVDjn422q/FHE5NvU9es9cvk00wvkieDD2fdYrT15vFX1p+3FpG8bKkuP8itN5fCpM+PaBKmiPOrawjNd1dbeObzSeLxuvHC85KvZ7+hL/xaxmLlx5pfT40GDvTBOYV7z5itdy2+ljyCB+cr6/8Ja3+ABzVDVD7UI2y+yPEGvynUAaAUAAA=
+   H4sIAAAAAAAAA+3V0U7CMBhA4SpxeI8a9J4E2AOovP+D2cYtlqaTLs5j1HOSPz8gRvKl1E0I4a4y9+7F9kOcXbDvbh90JtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZl0ZtKZSWcmnZm+4nwV5zrOKs46zu1SH+oP5nlm0plJZyadmZLzc5xumHUx/m9r7ya8m3XFTnOKs43zOMy22E8/8Hl/a4dw7jc+7rPnpa/O85tynnqe7/FOqX0f/uOdku6GbmLyu6F2nvvwubVn/aPyzLbs8XE/zHGY8efH7PXa1rlt5+c592v9/XSnvMZ5mbFbZ+77l56pv38Kl89fbad5Az4iobVwYgAA
   </data>
  </layer>
 </map>

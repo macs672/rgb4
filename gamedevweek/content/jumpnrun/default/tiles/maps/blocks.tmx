@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="70" height="50" tilewidth="64" tileheight="48">
+ <tileset firstgid="1" name="blocks" tilewidth="64" tileheight="48">
+  <image source="blocks.png"/>
+ </tileset>
+ <tileset firstgid="25" name="ConcretePlates0002_2_thumblarge" tilewidth="64" tileheight="48">
+  <image source="../../../../../../../../Textures/ConcretePlates0002_2_thumblarge.png"/>
+ </tileset>
+ <layer name="Level" width="70" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3X2wrCMBBF0fokqf//v1IwGMNpzWWmiXUvCILopDm5GJcFAAAAAADUCqMfYFLkopHLp5A0vJHLPnLRyEUjF41cNHLRyEUjF80il1DQamuc0WdJfWtHz9jSn6rheS8dsY8scvE26nwJ2WvrZ7yU7FOv9fqtpnWftWOt6dsjm+jm2FdtrZY5sVxLHuvTos7I+0vp7/EInueG19k0w9k3a23v+vwP0MhFIxfNMpeWe5M6N63qWIylx2PRz3f0/ox9pHpyWTu+uye/8/ZYX63FLOfLNr9xHL1zbWEvF+/9e7ba8fzyWD2Ri0YuWszlnrR/lWagcsnbVR2NufdueeX2BFJ1wqiwNgAA
+  </data>
+ </layer>
+</map>

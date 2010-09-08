@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="70" height="51" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="ConcretePlates0002_2_thumblarge" tilewidth="32" tileheight="32">
+  <image source="../../../../../../../../../Textures/ConcretePlates0002_2_thumblarge.png"/>
+ </tileset>
+ <tileset firstgid="13" name="metalBlueS" tilewidth="32" tileheight="32">
+  <image source="../../../../../../../../../Textures/metalBlueS.png"/>
+ </tileset>
+ <layer name="Kachelebene 1" width="70" height="51">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2b61ICMQyFV1BQERQF9f2flLPMLMMol6SbpEm638yZIf3BXtpDm5LOu657hB6gGTSf4mO8hJ6hJ2gxxad4Bb1BL9CrcjwW7fs7j63GpRSZfCRNBh9pEdlH2kT0kRWRfGRNBB/VwrOPauPRR17w5CNvePCRV2r6yDs1fBQFSx9Fw8JHUdH0UXQ0fJQFSR9lQ8JHWRnjo+yU+KgVOD5qDaqPWmPy0WW481ELlK7rMjOt6/7zd3yU5keZoOQBkfa1JaDm063sM/Rw8ukM+9wUuPtS3v9nlYDS72N9FGnfu4fazxI+irIPwelnKR95z6e4/SzpI6/5VEk/S/vIWz5V2q8aPvKST92bPznvSaMu6AvaQXvoG/qBfi+07288I/U7hvZ798cd/97rUilo1JFp1qlaoFWPWaO+ew1toHfoA9pCnzfar6FZj6ldPz08qxTDu9Kua7ao994Jvpf+d9bifIDVOQTu/HKt3ep8gNV1JNZ9ludsrK7DifvPFud+KHlN7fsYuw6Tjg8nFeOMyDcAAA==
+  </data>
+ </layer>
+</map>
